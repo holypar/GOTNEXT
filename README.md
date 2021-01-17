@@ -1,4 +1,4 @@
-# bliss
+# GOTNEXT
 
 A new Flutter application.
 
